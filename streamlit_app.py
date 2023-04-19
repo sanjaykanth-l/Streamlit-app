@@ -20,4 +20,4 @@ def main():
       
 st.write("The largest number is:", largest_num)
 
-run_streamlit-app.py
+streamlit run streamlit-app.py
