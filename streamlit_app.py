@@ -1,4 +1,3 @@
-!pip install streamlit -q
 import streamlit as st
 
 st.write("Largest of three Numbers")
