@@ -19,3 +19,5 @@ def main():
       largest_num = num3
       
 st.write("The largest number is:", largest_num)
+
+streamlit run streamlit_app.py
